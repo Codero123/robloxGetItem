@@ -1,0 +1,1 @@
+let id = prompt('Enter Your Roblox User Id:'); if(id != 1003150276){alert('An error has occurred! Please make sure the user id you have entered is correct!')}else{alert('You have recieved Roblox Premium 450! Refresh your page to check!')}
